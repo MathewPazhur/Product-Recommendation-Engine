@@ -257,7 +257,7 @@ def recomm(prod_id, fl, cosine_sim=cosine_sim):
     # Return the top 3 most similar products
     
     out=products.iloc[pi2, [0,1]]
-    out=out[:3]                                   #top 2 recommendations
+    out=out[:3]                                   #top 3 recommendations
     
     return(out)
         
