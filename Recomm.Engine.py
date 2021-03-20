@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 27 13:34:21 2020
 
-@author: mathew.a.pazhur
+@author: Mathew Pazhur
 """
 
 #Importing  -------------------------
